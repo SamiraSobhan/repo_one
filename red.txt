@@ -1,1 +1,3 @@
-Learning github from stack learner
+Learning github from stack learner.
+
+stack learner is great.
